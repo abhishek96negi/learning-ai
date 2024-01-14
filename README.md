@@ -4,4 +4,4 @@
 
     [LLM Introduction](/docs/LLM/Introduction%20LLM.ipynb)
 
-2. [LangChain](/docs/langchain/LangChain.ipynb)
+2. [LangChain](/docs/langchain/Langchain.ipynb)
